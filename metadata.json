@@ -1,0 +1,6 @@
+{
+  "name": "FortuneSchool - Premier Educational Institution",
+  "description": "Official portal of FortuneSchool, inspired by premier convent school architecture with comprehensive academics, admissions, campus facilities, circulars, and student life.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
